@@ -4,20 +4,46 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
+theme: {
     extend: {
       colors: {
+        border: 'hsl(var(--border))',
+        input: 'hsl(var(--input))',
+        ring: 'hsl(var(--ring))',
+        background: 'hsl(var(--background))',
+        foreground: 'hsl(var(--foreground))',
         primary: {
           DEFAULT: '#4F46E5',
           light: '#6366F1',
-          dark: '#4338CA'
+          dark: '#4338CA',
+          foreground: 'hsl(var(--primary-foreground))'
         },
         secondary: {
           DEFAULT: '#10B981',
           light: '#34D399',
-          dark: '#059669'
+          dark: '#059669',
+          foreground: 'hsl(var(--secondary-foreground))'
         },
-        accent: '#F59E0B',
+        destructive: {
+          DEFAULT: 'hsl(var(--destructive))',
+          foreground: 'hsl(var(--destructive-foreground))'
+        },
+        muted: {
+          DEFAULT: 'hsl(var(--muted))',
+          foreground: 'hsl(var(--muted-foreground))'
+        },
+        accent: {
+          DEFAULT: '#F59E0B',
+          foreground: 'hsl(var(--accent-foreground))'
+        },
+        popover: {
+          DEFAULT: 'hsl(var(--popover))',
+          foreground: 'hsl(var(--popover-foreground))'
+        },
+        card: {
+          DEFAULT: 'hsl(var(--card))',
+          foreground: 'hsl(var(--card-foreground))'
+        },
         surface: {
           50: '#f8fafc',
           100: '#f1f5f9',
@@ -30,6 +56,9 @@ export default {
           800: '#1e293b',
           900: '#0f172a'
         }
+      },
+      borderColor: {
+        DEFAULT: 'hsl(var(--border))',
       },
       fontFamily: {
         sans: ['Inter', 'ui-sans-serif', 'system-ui'],
