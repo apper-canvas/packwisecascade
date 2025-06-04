@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "task": "Check in for flight online",
+    "timeBeforeDeparture": 24,
+    "isCompleted": false,
+    "category": "travel"
+  },
+  {
+    "id": "2",
+    "task": "Confirm hotel reservation",
+    "timeBeforeDeparture": 48,
+    "isCompleted": true,
+    "category": "accommodation"
+  },
+  {
+    "id": "3",
+    "task": "Set up international phone plan",
+    "timeBeforeDeparture": 72,
+    "isCompleted": false,
+    "category": "communication"
+  },
+  {
+    "id": "4",
+    "task": "Notify bank of travel dates",
+    "timeBeforeDeparture": 48,
+    "isCompleted": false,
+    "category": "financial"
+  },
+  {
+    "id": "5",
+    "task": "Download offline maps",
+    "timeBeforeDeparture": 12,
+    "isCompleted": false,
+    "category": "navigation"
+  },
+  {
+    "id": "6",
+    "task": "Check weather forecast",
+    "timeBeforeDeparture": 6,
+    "isCompleted": true,
+    "category": "planning"
+  },
+  {
+    "id": "7",
+    "task": "Charge all electronic devices",
+    "timeBeforeDeparture": 3,
+    "isCompleted": false,
+    "category": "electronics"
+  },
+  {
+    "id": "8",
+    "task": "Print boarding passes",
+    "timeBeforeDeparture": 2,
+    "isCompleted": false,
+    "category": "travel"
+  },
+  {
+    "id": "9",
+    "task": "Check passport expiration",
+    "timeBeforeDeparture": 168,
+    "isCompleted": true,
+    "category": "documents"
+  },
+  {
+    "id": "10",
+    "task": "Empty refrigerator",
+    "timeBeforeDeparture": 6,
+    "isCompleted": false,
+    "category": "home"
+  },
+  {
+    "id": "11",
+    "task": "Set mail hold at post office",
+    "timeBeforeDeparture": 72,
+    "isCompleted": false,
+    "category": "home"
+  },
+  {
+    "id": "12",
+    "task": "Water plants or arrange care",
+    "timeBeforeDeparture": 12,
+    "isCompleted": false,
+    "category": "home"
+  },
+  {
+    "id": "13",
+    "task": "Check baggage weight limits",
+    "timeBeforeDeparture": 24,
+    "isCompleted": true,
+    "category": "travel"
+  },
+  {
+    "id": "14",
+    "task": "Research local customs and tipping",
+    "timeBeforeDeparture": 96,
+    "isCompleted": false,
+    "category": "cultural"
+  },
+  {
+    "id": "15",
+    "task": "Make copies of important documents",
+    "timeBeforeDeparture": 48,
+    "isCompleted": false,
+    "category": "documents"
+  }
+]

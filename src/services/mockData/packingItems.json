@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "packingListId": "1",
+    "name": "Passport",
+    "category": "Documents",
+    "quantity": 1,
+    "isPacked": true,
+    "priority": "high",
+    "notes": "Check expiration date"
+  },
+  {
+    "id": "2",
+    "packingListId": "1",
+    "name": "Rain Jacket",
+    "category": "Clothing",
+    "quantity": 1,
+    "isPacked": true,
+    "priority": "high",
+    "notes": ""
+  },
+  {
+    "id": "3",
+    "packingListId": "1",
+    "name": "Umbrella",
+    "category": "Miscellaneous",
+    "quantity": 1,
+    "isPacked": false,
+    "priority": "medium",
+    "notes": ""
+  },
+  {
+    "id": "4",
+    "packingListId": "2",
+    "name": "Business Suit",
+    "category": "Clothing",
+    "quantity": 2,
+    "isPacked": false,
+    "priority": "high",
+    "notes": "Dry cleaned"
+  },
+  {
+    "id": "5",
+    "packingListId": "2",
+    "name": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "isPacked": true,
+    "priority": "high",
+    "notes": "Backup data before travel"
+  },
+  {
+    "id": "6",
+    "packingListId": "3",
+    "name": "Swimwear",
+    "category": "Clothing",
+    "quantity": 3,
+    "isPacked": true,
+    "priority": "high",
+    "notes": ""
+  },
+  {
+    "id": "7",
+    "packingListId": "3",
+    "name": "Sunscreen SPF 50",
+    "category": "Toiletries",
+    "quantity": 2,
+    "isPacked": true,
+    "priority": "high",
+    "notes": "Reef safe"
+  },
+  {
+    "id": "8",
+    "packingListId": "4",
+    "name": "Winter Coat",
+    "category": "Clothing",
+    "quantity": 1,
+    "isPacked": false,
+    "priority": "high",
+    "notes": "Waterproof"
+  },
+  {
+    "id": "9",
+    "packingListId": "4",
+    "name": "Hiking Boots",
+    "category": "Clothing",
+    "quantity": 1,
+    "isPacked": false,
+    "priority": "high",
+    "notes": "Break them in first"
+  },
+  {
+    "id": "10",
+    "packingListId": "5",
+    "name": "Phone Charger",
+    "category": "Electronics",
+    "quantity": 1,
+    "isPacked": false,
+    "priority": "high",
+    "notes": ""
+  },
+  {
+    "id": "11",
+    "packingListId": "1",
+    "name": "Toothbrush",
+    "category": "Toiletries",
+    "quantity": 1,
+    "isPacked": true,
+    "priority": "high",
+    "notes": ""
+  },
+  {
+    "id": "12",
+    "packingListId": "1",
+    "name": "Underwear",
+    "category": "Clothing",
+    "quantity": 8,
+    "isPacked": true,
+    "priority": "high",
+    "notes": ""
+  },
+  {
+    "id": "13",
+    "packingListId": "2",
+    "name": "Business Cards",
+    "category": "Documents",
+    "quantity": 1,
+    "isPacked": true,
+    "priority": "medium",
+    "notes": ""
+  },
+  {
+    "id": "14",
+    "packingListId": "3",
+    "name": "Beach Towel",
+    "category": "Miscellaneous",
+    "quantity": 2,
+    "isPacked": true,
+    "priority": "medium",
+    "notes": ""
+  },
+  {
+    "id": "15",
+    "packingListId": "4",
+    "name": "Camera",
+    "category": "Electronics",
+    "quantity": 1,
+    "isPacked": false,
+    "priority": "medium",
+    "notes": "Extra batteries"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "destination": "Paris, France",
+    "startDate": "2024-03-15",
+    "endDate": "2024-03-22",
+    "weather": "rainy",
+    "tripType": "leisure",
+    "packingListId": "1",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "destination": "Tokyo, Japan",
+    "startDate": "2024-04-10",
+    "endDate": "2024-04-18",
+    "weather": "sunny",
+    "tripType": "business",
+    "packingListId": "2",
+    "createdAt": "2024-01-20T14:15:00Z"
+  },
+  {
+    "id": "3",
+    "destination": "Bali, Indonesia",
+    "startDate": "2024-05-05",
+    "endDate": "2024-05-15",
+    "weather": "hot",
+    "tripType": "beach",
+    "packingListId": "3",
+    "createdAt": "2024-02-01T09:45:00Z"
+  },
+  {
+    "id": "4",
+    "destination": "Iceland",
+    "startDate": "2024-06-01",
+    "endDate": "2024-06-10",
+    "weather": "cold",
+    "tripType": "adventure",
+    "packingListId": "4",
+    "createdAt": "2024-02-10T16:20:00Z"
+  },
+  {
+    "id": "5",
+    "destination": "New York, USA",
+    "startDate": "2024-07-08",
+    "endDate": "2024-07-12",
+    "weather": "sunny",
+    "tripType": "business",
+    "packingListId": "5",
+    "createdAt": "2024-02-15T11:00:00Z"
+  }
+]

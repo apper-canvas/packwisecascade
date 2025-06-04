@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "categories": ["Clothing", "Toiletries", "Electronics", "Documents", "Miscellaneous"],
+    "totalItems": 18,
+    "packedItems": 12,
+    "lastModified": "2024-01-16T08:30:00Z"
+  },
+  {
+    "id": "2",
+    "tripId": "2",
+    "categories": ["Clothing", "Toiletries", "Electronics", "Documents", "Business"],
+    "totalItems": 22,
+    "packedItems": 8,
+    "lastModified": "2024-01-21T10:15:00Z"
+  },
+  {
+    "id": "3",
+    "tripId": "3",
+    "categories": ["Clothing", "Toiletries", "Electronics", "Documents", "Beach"],
+    "totalItems": 16,
+    "packedItems": 16,
+    "lastModified": "2024-02-02T14:45:00Z"
+  },
+  {
+    "id": "4",
+    "tripId": "4",
+    "categories": ["Clothing", "Toiletries", "Electronics", "Documents", "Adventure"],
+    "totalItems": 25,
+    "packedItems": 5,
+    "lastModified": "2024-02-11T12:20:00Z"
+  },
+  {
+    "id": "5",
+    "tripId": "5",
+    "categories": ["Clothing", "Toiletries", "Electronics", "Documents", "Business"],
+    "totalItems": 20,
+    "packedItems": 0,
+    "lastModified": "2024-02-16T09:30:00Z"
+  }
+]
